@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1691058567 source:d:\220911456\lab1\matrix_c=max(a,b)\main.c
+	<stdio.h>
+	<stdlib.h>
+
