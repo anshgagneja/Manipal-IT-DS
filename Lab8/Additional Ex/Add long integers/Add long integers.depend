@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699345118 source:d:\ds lab\lab 8\additional ex\add long integers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
